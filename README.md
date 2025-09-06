@@ -39,7 +39,7 @@ soen/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone <[your-repo-url](https://github.com/Sheetal-Gautam/SOAN-AI-AGENT/>
 cd soen
 ```
 
